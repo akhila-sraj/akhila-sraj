@@ -37,7 +37,13 @@ A passionate developer who enjoys building, learning, and exploring new technolo
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhila-sraj&theme=dark&hide_border=false&layout=compact)
 
 ---
+###
 
+## 💻 Contribution Graph
+
+<div align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 ---
 
