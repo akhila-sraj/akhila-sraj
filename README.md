@@ -38,8 +38,6 @@ A passionate developer who enjoys building, learning, and exploring new technolo
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=akhila-sraj&theme=radical&margin-w=10)
 
 ---
 
