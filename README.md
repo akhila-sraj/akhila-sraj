@@ -71,8 +71,13 @@ Hey 👋, I’m **Akhila**
 ---
 
 ## 🔝 Top Contributed Repositories
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=akhila-sraj&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=akhila-sraj&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=akhila-sraj&icon=2&color=10)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akhila-sraj&label=Profile%20Views&color=aa31f7&style=for-the-badge" alt="Profile Views" />
+</p>
