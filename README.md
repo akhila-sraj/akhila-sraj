@@ -1,6 +1,13 @@
 
 Hey 👋, I’m **Akhila**  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AA31F7&width=435&lines=Scaling+my+billion-dollar+delusion)](https://git.io/typing-svg)
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=AA31F7&center=true&vCenter=true&width=700&lines=Scaling+my+billion-dollar+delusion;Building+cool+stuff+on+the+internet;Open+Source+Contributor;Full+Stack+Developer"
+    alt="Typing SVG"
+  />
+</p>
+
 
 ---
 
@@ -30,19 +37,30 @@ Hey 👋, I’m **Akhila**
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhila-sraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=akhila-sraj&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhila-sraj&theme=dark&hide_border=false&layout=compact)
-
----
-###
-
-## 💻 Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akhila-sraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhila-sraj&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=akhila-sraj&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+
+
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -53,7 +71,7 @@ Hey 👋, I’m **Akhila**
 ---
 
 ## 🔝 Top Contributed Repositories
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=akhila-sraj&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=akhila-sraj&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
