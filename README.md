@@ -1,6 +1,6 @@
 
 Hey 👋, I’m **Akhila**  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AA31F7&width=435&lines=Building+the+next+big+thing%2C+one+sprint+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AA31F7&width=435&lines=Scaling+my+billion-dollar+delusion)](https://git.io/typing-svg)
 
 ---
 
