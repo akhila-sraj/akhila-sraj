@@ -1,6 +1,6 @@
-# 💫 About Me
+
 Hey 👋, I’m **Akhila**  
-A passionate developer who enjoys building, learning, and exploring new technologies.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AA31F7&width=435&lines=A+passionate+developer+who+enjoys+building%2C+learning%2C+and+exploring+new+technologies.)](https://git.io/typing-svg)
 
 ---
 
