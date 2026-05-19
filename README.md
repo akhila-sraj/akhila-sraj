@@ -70,14 +70,4 @@ Hey 👋, I’m **Akhila**
 
 ---
 
-## 🔝 Top Contributed Repositories
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=akhila-sraj&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akhila-sraj&label=Profile%20Views&color=aa31f7&style=for-the-badge" alt="Profile Views" />
-</p>
